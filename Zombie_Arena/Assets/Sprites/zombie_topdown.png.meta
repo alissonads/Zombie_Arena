@@ -1,0 +1,5440 @@
+fileFormatVersion: 2
+guid: 049835b54cbeff644b868a8f21ff2697
+timeCreated: 1477926933
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_topdown_0
+    21300002: zombie_topdown_1
+    21300004: zombie_topdown_2
+    21300006: zombie_topdown_3
+    21300008: zombie_topdown_4
+    21300010: zombie_topdown_5
+    21300012: zombie_topdown_6
+    21300014: zombie_topdown_7
+    21300016: zombie_topdown_8
+    21300018: zombie_topdown_9
+    21300020: zombie_topdown_10
+    21300022: zombie_topdown_11
+    21300024: zombie_topdown_12
+    21300026: zombie_topdown_13
+    21300028: zombie_topdown_14
+    21300030: zombie_topdown_15
+    21300032: zombie_topdown_16
+    21300034: zombie_topdown_17
+    21300036: zombie_topdown_18
+    21300038: zombie_topdown_19
+    21300040: zombie_topdown_20
+    21300042: zombie_topdown_21
+    21300044: zombie_topdown_22
+    21300046: zombie_topdown_23
+    21300048: zombie_topdown_24
+    21300050: zombie_topdown_25
+    21300052: zombie_topdown_26
+    21300054: zombie_topdown_27
+    21300056: zombie_topdown_28
+    21300058: zombie_topdown_29
+    21300060: zombie_topdown_30
+    21300062: zombie_topdown_31
+    21300064: zombie_topdown_32
+    21300066: zombie_topdown_33
+    21300068: zombie_topdown_34
+    21300070: zombie_topdown_35
+    21300072: zombie_topdown_36
+    21300074: zombie_topdown_37
+    21300076: zombie_topdown_38
+    21300078: zombie_topdown_39
+    21300080: zombie_topdown_40
+    21300082: zombie_topdown_41
+    21300084: zombie_topdown_42
+    21300086: zombie_topdown_43
+    21300088: zombie_topdown_44
+    21300090: zombie_topdown_45
+    21300092: zombie_topdown_46
+    21300094: zombie_topdown_47
+    21300096: zombie_topdown_48
+    21300098: zombie_topdown_49
+    21300100: zombie_topdown_50
+    21300102: zombie_topdown_51
+    21300104: zombie_topdown_52
+    21300106: zombie_topdown_53
+    21300108: zombie_topdown_54
+    21300110: zombie_topdown_55
+    21300112: zombie_topdown_56
+    21300114: zombie_topdown_57
+    21300116: zombie_topdown_58
+    21300118: zombie_topdown_59
+    21300120: zombie_topdown_60
+    21300122: zombie_topdown_61
+    21300124: zombie_topdown_62
+    21300126: zombie_topdown_63
+    21300128: zombie_topdown_64
+    21300130: zombie_topdown_65
+    21300132: zombie_topdown_66
+    21300134: zombie_topdown_67
+    21300136: zombie_topdown_68
+    21300138: zombie_topdown_69
+    21300140: zombie_topdown_70
+    21300142: zombie_topdown_71
+    21300144: zombie_topdown_72
+    21300146: zombie_topdown_73
+    21300148: zombie_topdown_74
+    21300150: zombie_topdown_75
+    21300152: zombie_topdown_76
+    21300154: zombie_topdown_77
+    21300156: zombie_topdown_78
+    21300158: zombie_topdown_79
+    21300160: zombie_topdown_80
+    21300162: zombie_topdown_81
+    21300164: zombie_topdown_82
+    21300166: zombie_topdown_83
+    21300168: zombie_topdown_84
+    21300170: zombie_topdown_85
+    21300172: zombie_topdown_86
+    21300174: zombie_topdown_87
+    21300176: zombie_topdown_88
+    21300178: zombie_topdown_89
+    21300180: zombie_topdown_90
+    21300182: zombie_topdown_91
+    21300184: zombie_topdown_92
+    21300186: zombie_topdown_93
+    21300188: zombie_topdown_94
+    21300190: zombie_topdown_95
+    21300192: zombie_topdown_96
+    21300194: zombie_topdown_97
+    21300196: zombie_topdown_98
+    21300198: zombie_topdown_99
+    21300200: zombie_topdown_100
+    21300202: zombie_topdown_101
+    21300204: zombie_topdown_102
+    21300206: zombie_topdown_103
+    21300208: zombie_topdown_104
+    21300210: zombie_topdown_105
+    21300212: zombie_topdown_106
+    21300214: zombie_topdown_107
+    21300216: zombie_topdown_108
+    21300218: zombie_topdown_109
+    21300220: zombie_topdown_110
+    21300222: zombie_topdown_111
+    21300224: zombie_topdown_112
+    21300226: zombie_topdown_113
+    21300228: zombie_topdown_114
+    21300230: zombie_topdown_115
+    21300232: zombie_topdown_116
+    21300234: zombie_topdown_117
+    21300236: zombie_topdown_118
+    21300238: zombie_topdown_119
+    21300240: zombie_topdown_120
+    21300242: zombie_topdown_121
+    21300244: zombie_topdown_122
+    21300246: zombie_topdown_123
+    21300248: zombie_topdown_124
+    21300250: zombie_topdown_125
+    21300252: zombie_topdown_126
+    21300254: zombie_topdown_127
+    21300256: zombie_topdown_128
+    21300258: zombie_topdown_129
+    21300260: zombie_topdown_130
+    21300262: zombie_topdown_131
+    21300264: zombie_topdown_132
+    21300266: zombie_topdown_133
+    21300268: zombie_topdown_134
+    21300270: zombie_topdown_135
+    21300272: zombie_topdown_136
+    21300274: zombie_topdown_137
+    21300276: zombie_topdown_138
+    21300278: zombie_topdown_139
+    21300280: zombie_topdown_140
+    21300282: zombie_topdown_141
+    21300284: zombie_topdown_142
+    21300286: zombie_topdown_143
+    21300288: zombie_topdown_144
+    21300290: zombie_topdown_145
+    21300292: zombie_topdown_146
+    21300294: zombie_topdown_147
+    21300296: zombie_topdown_148
+    21300298: zombie_topdown_149
+    21300300: zombie_topdown_150
+    21300302: zombie_topdown_151
+    21300304: zombie_topdown_152
+    21300306: zombie_topdown_153
+    21300308: zombie_topdown_154
+    21300310: zombie_topdown_155
+    21300312: zombie_topdown_156
+    21300314: zombie_topdown_157
+    21300316: zombie_topdown_158
+    21300318: zombie_topdown_159
+    21300320: zombie_topdown_160
+    21300322: zombie_topdown_161
+    21300324: zombie_topdown_162
+    21300326: zombie_topdown_163
+    21300328: zombie_topdown_164
+    21300330: zombie_topdown_165
+    21300332: zombie_topdown_166
+    21300334: zombie_topdown_167
+    21300336: zombie_topdown_168
+    21300338: zombie_topdown_169
+    21300340: zombie_topdown_170
+    21300342: zombie_topdown_171
+    21300344: zombie_topdown_172
+    21300346: zombie_topdown_173
+    21300348: zombie_topdown_174
+    21300350: zombie_topdown_175
+    21300352: zombie_topdown_176
+    21300354: zombie_topdown_177
+    21300356: zombie_topdown_178
+    21300358: zombie_topdown_179
+    21300360: zombie_topdown_180
+    21300362: zombie_topdown_181
+    21300364: zombie_topdown_182
+    21300366: zombie_topdown_183
+    21300368: zombie_topdown_184
+    21300370: zombie_topdown_185
+    21300372: zombie_topdown_186
+    21300374: zombie_topdown_187
+    21300376: zombie_topdown_188
+    21300378: zombie_topdown_189
+    21300380: zombie_topdown_190
+    21300382: zombie_topdown_191
+    21300384: zombie_topdown_192
+    21300386: zombie_topdown_193
+    21300388: zombie_topdown_194
+    21300390: zombie_topdown_195
+    21300392: zombie_topdown_196
+    21300394: zombie_topdown_197
+    21300396: zombie_topdown_198
+    21300398: zombie_topdown_199
+    21300400: zombie_topdown_200
+    21300402: zombie_topdown_201
+    21300404: zombie_topdown_202
+    21300406: zombie_topdown_203
+    21300408: zombie_topdown_204
+    21300410: zombie_topdown_205
+    21300412: zombie_topdown_206
+    21300414: zombie_topdown_207
+    21300416: zombie_topdown_208
+    21300418: zombie_topdown_209
+    21300420: zombie_topdown_210
+    21300422: zombie_topdown_211
+    21300424: zombie_topdown_212
+    21300426: zombie_topdown_213
+    21300428: zombie_topdown_214
+    21300430: zombie_topdown_215
+    21300432: zombie_topdown_216
+    21300434: zombie_topdown_217
+    21300436: zombie_topdown_218
+    21300438: zombie_topdown_219
+    21300440: zombie_topdown_220
+    21300442: zombie_topdown_221
+    21300444: zombie_topdown_222
+    21300446: zombie_topdown_223
+    21300448: zombie_topdown_224
+    21300450: zombie_topdown_225
+    21300452: zombie_topdown_226
+    21300454: zombie_topdown_227
+    21300456: zombie_topdown_228
+    21300458: zombie_topdown_229
+    21300460: zombie_topdown_230
+    21300462: zombie_topdown_231
+    21300464: zombie_topdown_232
+    21300466: zombie_topdown_233
+    21300468: zombie_topdown_234
+    21300470: zombie_topdown_235
+    21300472: zombie_topdown_236
+    21300474: zombie_topdown_237
+    21300476: zombie_topdown_238
+    21300478: zombie_topdown_239
+    21300480: zombie_topdown_240
+    21300482: zombie_topdown_241
+    21300484: zombie_topdown_242
+    21300486: zombie_topdown_243
+    21300488: zombie_topdown_244
+    21300490: zombie_topdown_245
+    21300492: zombie_topdown_246
+    21300494: zombie_topdown_247
+    21300496: zombie_topdown_248
+    21300498: zombie_topdown_249
+    21300500: zombie_topdown_250
+    21300502: zombie_topdown_251
+    21300504: zombie_topdown_252
+    21300506: zombie_topdown_253
+    21300508: zombie_topdown_254
+    21300510: zombie_topdown_255
+    21300512: zombie_topdown_256
+    21300514: zombie_topdown_257
+    21300516: zombie_topdown_258
+    21300518: zombie_topdown_259
+    21300520: zombie_topdown_260
+    21300522: zombie_topdown_261
+    21300524: zombie_topdown_262
+    21300526: zombie_topdown_263
+    21300528: zombie_topdown_264
+    21300530: zombie_topdown_265
+    21300532: zombie_topdown_266
+    21300534: zombie_topdown_267
+    21300536: zombie_topdown_268
+    21300538: zombie_topdown_269
+    21300540: zombie_topdown_270
+    21300542: zombie_topdown_271
+    21300544: zombie_topdown_272
+    21300546: zombie_topdown_273
+    21300548: zombie_topdown_274
+    21300550: zombie_topdown_275
+    21300552: zombie_topdown_276
+    21300554: zombie_topdown_277
+    21300556: zombie_topdown_278
+    21300558: zombie_topdown_279
+    21300560: zombie_topdown_280
+    21300562: zombie_topdown_281
+    21300564: zombie_topdown_282
+    21300566: zombie_topdown_283
+    21300568: zombie_topdown_284
+    21300570: zombie_topdown_285
+    21300572: zombie_topdown_286
+    21300574: zombie_topdown_287
+    21300576: zombie_topdown_288
+    21300578: zombie_topdown_289
+    21300580: zombie_topdown_290
+    21300582: zombie_topdown_291
+    21300584: zombie_topdown_292
+    21300586: zombie_topdown_293
+    21300588: zombie_topdown_294
+    21300590: zombie_topdown_295
+    21300592: zombie_topdown_296
+    21300594: zombie_topdown_297
+    21300596: zombie_topdown_298
+    21300598: zombie_topdown_299
+    21300600: zombie_topdown_300
+    21300602: zombie_topdown_301
+    21300604: zombie_topdown_302
+    21300606: zombie_topdown_303
+    21300608: zombie_topdown_304
+    21300610: zombie_topdown_305
+    21300612: zombie_topdown_306
+    21300614: zombie_topdown_307
+    21300616: zombie_topdown_308
+    21300618: zombie_topdown_309
+    21300620: zombie_topdown_310
+    21300622: zombie_topdown_311
+    21300624: zombie_topdown_312
+    21300626: zombie_topdown_313
+    21300628: zombie_topdown_314
+    21300630: zombie_topdown_315
+    21300632: zombie_topdown_316
+    21300634: zombie_topdown_317
+    21300636: zombie_topdown_318
+    21300638: zombie_topdown_319
+    21300640: zombie_topdown_320
+    21300642: zombie_topdown_321
+    21300644: zombie_topdown_322
+    21300646: zombie_topdown_323
+    21300648: zombie_topdown_324
+    21300650: zombie_topdown_325
+    21300652: zombie_topdown_326
+    21300654: zombie_topdown_327
+    21300656: zombie_topdown_328
+    21300658: zombie_topdown_329
+    21300660: zombie_topdown_330
+    21300662: zombie_topdown_331
+    21300664: zombie_topdown_332
+    21300666: zombie_topdown_333
+    21300668: zombie_topdown_334
+    21300670: zombie_topdown_335
+    21300672: zombie_topdown_336
+    21300674: zombie_topdown_337
+    21300676: zombie_topdown_338
+    21300678: zombie_topdown_339
+    21300680: zombie_topdown_340
+    21300682: zombie_topdown_341
+    21300684: zombie_topdown_342
+    21300686: zombie_topdown_343
+    21300688: zombie_topdown_344
+    21300690: zombie_topdown_345
+    21300692: zombie_topdown_346
+    21300694: zombie_topdown_347
+    21300696: zombie_topdown_348
+    21300698: zombie_topdown_349
+    21300700: zombie_topdown_350
+    21300702: zombie_topdown_351
+    21300704: zombie_topdown_352
+    21300706: zombie_topdown_353
+    21300708: zombie_topdown_354
+    21300710: zombie_topdown_355
+    21300712: zombie_topdown_356
+    21300714: zombie_topdown_357
+    21300716: zombie_topdown_358
+    21300718: zombie_topdown_359
+    21300720: zombie_topdown_360
+    21300722: zombie_topdown_361
+    21300724: zombie_topdown_362
+    21300726: zombie_topdown_363
+    21300728: zombie_topdown_364
+    21300730: zombie_topdown_365
+    21300732: zombie_topdown_366
+    21300734: zombie_topdown_367
+    21300736: zombie_topdown_368
+    21300738: zombie_topdown_369
+    21300740: zombie_topdown_370
+    21300742: zombie_topdown_371
+    21300744: zombie_topdown_372
+    21300746: zombie_topdown_373
+    21300748: zombie_topdown_374
+    21300750: zombie_topdown_375
+    21300752: zombie_topdown_376
+    21300754: zombie_topdown_377
+    21300756: zombie_topdown_378
+    21300758: zombie_topdown_379
+    21300760: zombie_topdown_380
+    21300762: zombie_topdown_381
+    21300764: zombie_topdown_382
+    21300766: zombie_topdown_383
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_topdown_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 929
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 929
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 929
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 929
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 914
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_5
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 911
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_6
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 911
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 911
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_8
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 911
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_9
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 914
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_10
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 920
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_11
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 918
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_12
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 905
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_13
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 923
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_14
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 911
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_15
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 918
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_16
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 918
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_17
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 923
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_18
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 925
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_19
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 925
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_20
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 920
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_21
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 927
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_22
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 925
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_23
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 925
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_24
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 920
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_25
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 918
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_26
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 927
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_27
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 929
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_28
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 932
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 925
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_30
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 920
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_31
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 925
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_32
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 923
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_33
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 974
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_34
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 923
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 911
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 911
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_37
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 963
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_38
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 965
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_39
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 968
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_40
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 956
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_41
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 965
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_42
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 959
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_43
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 952
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_44
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 954
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_45
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 911
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_46
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 898
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_47
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 884
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_48
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 873
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_49
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 875
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_50
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 871
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_51
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 799
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_52
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 794
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_53
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 794
+        width: 117
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_54
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 864
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_55
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 790
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_56
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 790
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_57
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 808
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_58
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 790
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_59
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 857
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_60
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 801
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_61
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 794
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 808
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 808
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_64
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 808
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 808
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_66
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 803
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_67
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 803
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_68
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 808
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_69
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 806
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_70
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 803
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_71
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 806
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_72
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 806
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_73
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 803
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_74
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 808
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_75
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 808
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_76
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 808
+        width: 94
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_77
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 808
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_78
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 808
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_79
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 803
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_80
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 806
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_81
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 808
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_82
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 808
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_83
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 806
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_84
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 806
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_85
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 808
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_86
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 812
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_87
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 808
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_88
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 806
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_89
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 835
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_90
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 828
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_91
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 803
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_92
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 799
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_93
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 797
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_94
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 783
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_95
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 785
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_96
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 774
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_97
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 756
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_98
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_99
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 684
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_100
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 641
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_101
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 754
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_102
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 684
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 668
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_104
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 664
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_105
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 659
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_106
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 666
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_107
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 684
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_108
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 686
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_109
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 680
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_110
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 689
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_111
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 682
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_112
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 682
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_113
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 684
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_114
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 686
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_115
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 684
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_116
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 639
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_117
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 743
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_118
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 666
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_119
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 668
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_120
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 689
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_121
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 675
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_122
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 666
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_123
+      rect:
+        serializedVersion: 2
+        x: 4034
+        y: 734
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_124
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 682
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_125
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 673
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 689
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 689
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 689
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 689
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_130
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 675
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_131
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 689
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_132
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 682
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_133
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 693
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_134
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 684
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_135
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 684
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_136
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 673
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_137
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 668
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_138
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 698
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_139
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 691
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_140
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 662
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_141
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 655
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_142
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 648
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_143
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 639
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_144
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 542
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_145
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 551
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_146
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 540
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_147
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 536
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_148
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 547
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_149
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 545
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_150
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 545
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_151
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 538
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_152
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 542
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_153
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 540
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_154
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 540
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_155
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 542
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_156
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 545
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_157
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 542
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_158
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 551
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_159
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 540
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_160
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 538
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_161
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 513
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_162
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 515
+        width: 75
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_163
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 567
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_164
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 542
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_165
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 540
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_166
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 614
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_167
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 540
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_168
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 551
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_169
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 549
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_170
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 551
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_171
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 560
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_172
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 551
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_173
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 601
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_174
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 605
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_175
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_176
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 603
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_178
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 560
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_179
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 560
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_180
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 558
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_181
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 542
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_182
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 560
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_183
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 556
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_184
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 551
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_185
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 592
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_186
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 596
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_187
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 574
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_188
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 545
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_189
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 556
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_190
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 547
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_191
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 538
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_192
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 531
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_193
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 527
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_194
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 416
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_195
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 500
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_196
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 416
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_197
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 432
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 432
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_199
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 432
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_200
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 432
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_201
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 419
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_202
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 416
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_203
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 412
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_204
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 423
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_205
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 416
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_206
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 416
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_207
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 488
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_208
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 430
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_209
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 430
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_210
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 430
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_211
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 430
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_212
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 416
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_213
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 414
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_214
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 419
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_215
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 419
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_216
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 423
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_217
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 416
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_218
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 430
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_219
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 423
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_220
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 414
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_221
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 407
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_222
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 392
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_223
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 392
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_224
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 430
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_225
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 432
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_226
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 421
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_227
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 423
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_228
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 437
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_229
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 441
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_230
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 423
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_231
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 437
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_232
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 437
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_233
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 421
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_234
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 437
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_235
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 414
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_236
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 439
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_237
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 414
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_238
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_239
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_240
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_241
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 369
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_242
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 286
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_243
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 360
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_244
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 353
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_245
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 279
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_246
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 297
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_247
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 297
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_248
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 295
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_249
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 297
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_250
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 299
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_251
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 297
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_252
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 299
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_253
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 286
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_254
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 286
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_255
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 299
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_256
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 299
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_257
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 299
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_258
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 295
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_259
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 284
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_260
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 297
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_261
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 329
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_262
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 290
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_263
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 340
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_264
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 288
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_265
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 344
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_266
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 279
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_267
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 299
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_268
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 299
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_269
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 299
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_270
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 299
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_271
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 295
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_272
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 295
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_273
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 299
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_274
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 299
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_275
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 293
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_276
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 293
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_277
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 295
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_278
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 299
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_279
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 299
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_280
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 299
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_281
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 299
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_282
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 295
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_283
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 288
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_284
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 279
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_285
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 272
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_286
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 270
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_287
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 270
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_288
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_289
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 144
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_290
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 137
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_291
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_292
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_293
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 144
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_294
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 146
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_295
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 144
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_296
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 155
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_297
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 207
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_298
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_299
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 151
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_300
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 171
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_301
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_302
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 173
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_303
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 171
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_304
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 144
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_305
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 144
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_306
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 144
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_307
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 144
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_308
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 146
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_309
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 169
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_310
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 151
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_311
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 133
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_312
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 146
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_313
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 144
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_314
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 149
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_315
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 149
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_316
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 153
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_317
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 162
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_318
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 164
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_319
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 164
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_320
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 160
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_321
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 158
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_322
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 176
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_323
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 171
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_324
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 164
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_325
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 162
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_326
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 155
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_327
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 153
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_328
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 189
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_329
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_330
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 149
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_331
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 155
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_332
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 146
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_333
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_334
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_335
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_336
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 9
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_337
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 14
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_338
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 16
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_339
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 9
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_340
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 2
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_341
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 90
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_342
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 95
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_343
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 101
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_344
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 11
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_345
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 9
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_346
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 7
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_347
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 11
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_348
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 9
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_349
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 9
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_350
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 29
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_351
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 32
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_352
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 0
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_353
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 9
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_354
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 5
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_355
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 11
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_356
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 11
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_357
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 18
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_358
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 29
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_359
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 36
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_360
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 20
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_361
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 18
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_362
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 34
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_363
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 25
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_364
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 83
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_365
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 72
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_366
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 25
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_367
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 25
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_368
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 23
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_369
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_370
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 41
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_371
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 41
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_372
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 41
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_373
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 32
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_374
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 41
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_375
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 38
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_376
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_377
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_378
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 20
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_379
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_380
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_381
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_382
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombie_topdown_383
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
