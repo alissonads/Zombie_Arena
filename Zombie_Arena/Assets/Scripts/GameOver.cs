@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using Syrinj;
 
 public class GameOver : MonoBehaviour {
+    [FindAttribute("num")]
     public Text score;
 
 	public void ReturnMenu()

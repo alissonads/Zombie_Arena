@@ -1,28 +1,38 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
+using Syrinj;
+using UnityEngine.AI;
 
-public class ZombieScript : MonoBehaviour {
+public class ZombieScript : MonoBehaviour, IActor, ITarget {
+    [FindAttribute("Player")]
     private GameObject player;
+
     public GameObject blood;
     public int life;
     private bool attack;
     private bool move;
+
+    [GetComponentInChildrenAttribute(typeof(Animator))]
     private Animator anim;
+
+    [GetComponentInChildrenAttribute(typeof(NavMeshAgent))]
+    private NavMeshAgent nvm;
 
     // Use this for initialization
     void Start () {
-        player = GameObject.FindGameObjectWithTag("Player");
+        //player = GameObject.FindGameObjectWithTag("Player");
         attack = false;
         move = true;
-        GetComponent<NavMeshAgent>().SetDestination(player.transform.position);
-        anim = GetComponentInChildren<Animator>();
+        //nvm.SetDestination(player.transform.position);
+        //anim = GetComponentInChildren<Animator>();
     }
 	
 	// Update is called once per frame
 	void Update () {
-        GetComponent<NavMeshAgent>().SetDestination(player.transform.position);
-        anim.SetBool("move", move);
-        anim.SetBool("attack", attack);
+        gameObject.Send<IActor>(zombie => zombie.Move(player.transform.position));
+        gameObject.Send<IActor>(zombie => zombie.Attack());
+        
         if (life <= 0)
         {
             SingletonManager.instance.GetScore += (tag == "Enemy")? 10 : 50;
@@ -44,15 +54,9 @@ public class ZombieScript : MonoBehaviour {
             attack = true;
             move = false;
         }
-        if (col.gameObject.tag == "Bullet")
-        {
-            Life -= 10;
-            Instantiate(blood, col.transform.position, blood.transform.rotation);
-        }
     }
 
     void OnCollisionExit(Collision col)
-
     {
         if (col.gameObject.tag == "Player")
         {
@@ -63,7 +67,45 @@ public class ZombieScript : MonoBehaviour {
 
     public void Dano()
     {
-        player.gameObject.GetComponent<PlayerScript>().Life -= (tag == "Enemy")? 2 : 10;
-        SingletonManager.instance.GetLife = player.gameObject.GetComponent<PlayerScript>().Life;
+        player.Send<ITarget>(p => p.GetHit((tag == "Enemy") ? 2 : 10));
+    }
+
+    public IEnumerable Move(float x, float y, float z)
+    {
+        nvm.SetDestination(new Vector3(x, y, z));
+        anim.SetBool("move", move);
+        yield return null;
+    }
+
+    public IEnumerable Move(Vector3 position)
+    {
+        nvm.SetDestination(position);
+        anim.SetBool("move", move);
+        yield return null;
+    }
+
+    public IEnumerable Rotate(float x, float y, float z)
+    {
+        yield return null;
+    }
+
+    public IEnumerable Attack()
+    {
+        //player.Send<ITarget>(p => p.GetHit((tag == "Enemy") ? 2 : 10));
+        anim.SetBool("attack", attack);
+        yield return null;
+    }
+
+    public IEnumerable GetHit(int damage)
+    {
+        life -= damage;
+        yield return null;
+    }
+
+    public IEnumerable GetHit(int damage, Vector3 location)
+    {
+        life -= damage;
+        Instantiate(blood, location, blood.transform.rotation);
+        yield return null;
     }
 }

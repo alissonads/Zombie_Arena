@@ -5,6 +5,7 @@ public class FinishAnimPlayer : MonoBehaviour {
 
 	void Finish()
     {
-        GetComponentInParent<PlayerScript>().FinishAnimation();
+        var p = GetComponentInParent(typeof(PlayerScript)) as PlayerScript;
+        p.FinishAnimation();
     }
 }

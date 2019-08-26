@@ -1,12 +1,16 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using Syrinj;
 
 public class GameControler : MonoBehaviour {
     public Text []texts;
     public int enemies;
-    public GameObject end;
-    public Slider life;
+
+    [FindAttribute("End")]
+    private GameObject end;
+    [FindAttribute("Slider")]
+    private Slider life;
 
     // Update is called once per frame
     void Start()

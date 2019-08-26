@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Syrinj;
 
 public class CameraScript : MonoBehaviour {
-    public GameObject player;
+    [FindAttribute("Player")]
+    private GameObject player;
 	// Use this for initialization
 	void Start () {
 	

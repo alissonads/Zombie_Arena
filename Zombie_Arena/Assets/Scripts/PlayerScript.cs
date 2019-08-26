@@ -1,16 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
+using Syrinj;
 
-public class PlayerScript : MonoBehaviour {
+public class PlayerScript : MonoBehaviour, IActor, ITarget
+{
     public float vel;
-    public Transform spawPosition;
+    
+    [FindWithTagAttribute("SpawnPoint")]
+    private Transform spawPosition;
+    
     public GameObject bullet;
 
-    //public GameObject []bullets;
-
     public AudioClip []audios;
-    public AudioSource audioS;
 
+    [FindWithTagAttribute("MainCamera")]
+    private AudioSource audioS;
+
+    [GetComponentInChildrenAttribute(typeof(Animator))]
     private Animator anim;
     private int ammunition;
     private int comb;
@@ -18,7 +25,7 @@ public class PlayerScript : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        anim = GetComponentInChildren<Animator>();
+        //anim = GetComponentInChildren<Animator>();
         ammunition = SingletonManager.instance.GetAmmunition;
         life = SingletonManager.instance.GetLife;
         comb = 7;
@@ -30,56 +37,19 @@ public class PlayerScript : MonoBehaviour {
         float y = Input.GetAxis("Vertical2");
         
         bool move = (x > 0 || x < 0 || y > 0 || y < 0) ? true : false;
-        Rotate(x, y);
+
+        gameObject.Send<IActor>(player => player.Rotate(x, y, 0));
 
         if (move)
         {
-            transform.Translate(Vector3.right * vel * Time.deltaTime);
-            //GetComponent<Rigidbody>().AddForce(Vector3.right * 1000);
-            anim.SetBool("move", true);
+            gameObject.Send<IActor>(player => player.Move(0, 0, 0));
+            if(anim) anim.SetBool("move", true);
         }
         else
         {
-            anim.SetBool("move", false);
+            if (anim) anim.SetBool("move", false);
         }
         Shoot();
-    }
-
-    private void Rotate(float x, float y)
-    {
-        if (x > 0)
-        {
-            transform.eulerAngles = new Vector3(0, 0, 0);
-        }
-        else if (x < 0)
-        {
-            transform.eulerAngles = new Vector3(0, 180, 0);
-        }
-        if (y > 0)
-        {
-            transform.eulerAngles = new Vector3(0, 270, 0);
-        }
-        else if (y < 0)
-        {
-            transform.eulerAngles = new Vector3(0, 90, 0);
-        }
-
-        if (x > 0 && y > 0)
-        {
-            transform.eulerAngles = new Vector3(0, 315, 0);
-        }
-        else if (x < 0 && y > 0)
-        {
-            transform.eulerAngles = new Vector3(0, 225, 0);
-        }
-        else if (x < 0 && y < 0)
-        {
-            transform.eulerAngles = new Vector3(0, 135, 0);
-        }
-        else if (x > 0 && y < 0)
-        {
-            transform.eulerAngles = new Vector3(0, 45, 0);
-        }
     }
 
     private void Shoot()
@@ -88,19 +58,15 @@ public class PlayerScript : MonoBehaviour {
         {
             if (ammunition > 0)
             {
-                GameObject obj = Instantiate(bullet, spawPosition.position, spawPosition.rotation) as GameObject;
-                obj.GetComponent<Rigidbody>().AddForce(spawPosition.right * 1000);
-                ammunition--;
-                SingletonManager.instance.GetAmmunition = ammunition;
-                anim.SetBool("shoot", true);
-                audioS.PlayOneShot(audios[0], 1.0f);
+                gameObject.Send<IActor>(player => player.Attack());
+                if (anim) anim.SetBool("shoot", true);
             }
             else
                 audioS.PlayOneShot(audios[1], 1.0f);
         }
         if(Input.GetKeyDown(KeyCode.Q) && ammunition > 0)
         {
-            anim.SetBool("reload", true);
+            if (anim) anim.SetBool("reload", true);
         }
     }
 
@@ -150,5 +116,82 @@ public class PlayerScript : MonoBehaviour {
     public void SoundReload()
     {
         audioS.PlayOneShot(audios[2], 0.2f);
+    }
+
+    public IEnumerable Move(float x, float y, float z)
+    {
+        transform.Translate(Vector3.right * vel * Time.deltaTime);
+        
+        yield return null;
+    }
+
+    public IEnumerable Move(Vector3 position)
+    {
+        transform.Translate(Vector3.right * vel * Time.deltaTime);
+
+        yield return null;
+    }
+
+    public IEnumerable Attack()
+    {
+        var obj = Instantiate(bullet, spawPosition.position, spawPosition.rotation) as GameObject;
+        obj.Send<IProjectile>(projectile => projectile.Setup(10));
+        obj.GetComponent<Rigidbody>().AddForce(spawPosition.right * 1000);
+        ammunition--;
+        SingletonManager.instance.GetAmmunition = ammunition;
+        audioS.PlayOneShot(audios[0], 1.0f);
+
+        yield return null;
+    }
+
+    public IEnumerable GetHit(int damage)
+    {
+        life -= damage;
+        SingletonManager.instance.GetLife = life;
+        yield return null;
+    }
+
+    public IEnumerable Rotate(float x, float y, float z)
+    {
+        if (x > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 0, 0);
+        }
+        else if (x < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 180, 0);
+        }
+        if (y > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 270, 0);
+        }
+        else if (y < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 90, 0);
+        }
+
+        if (x > 0 && y > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 315, 0);
+        }
+        else if (x < 0 && y > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 225, 0);
+        }
+        else if (x < 0 && y < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 135, 0);
+        }
+        else if (x > 0 && y < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 45, 0);
+        }
+
+        yield return null;
+    }
+
+    public IEnumerable GetHit(int damage, Vector3 location)
+    {
+        throw new NotImplementedException();
     }
 }
